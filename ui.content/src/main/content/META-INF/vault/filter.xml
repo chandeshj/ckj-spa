@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ckj" mode="merge"/>
+    <filter root="/content/ckj" mode="merge"/>
+    <filter root="/content/dam/ckj/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/ckj" mode="merge"/>
+</workspaceFilter>
